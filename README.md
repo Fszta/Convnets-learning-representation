@@ -40,9 +40,9 @@ pip install -r requirements.txt
 </p>
 <p>
     <h5>Classify as Golden-retriever with 97,49 % of accuracy</h5>
-    <img src="Images/Golden_retriever.png" alt="dog" class="inline"/>
+    <img src="combined_images/Golden_retriever.png" alt="dog" class="inline"/>
     <h5>Classify as Gorilla with 99,90% of accuracy</h5>
-    <img src="Images/gorilla.png" alt="cat" class="inline"/>
+    <img src="combined_images/gorilla.png" alt="gorilla" class="inline"/>
 </p>
 <p>
     <h2>Convnets filters</h2>
@@ -62,9 +62,9 @@ pip install -r requirements.txt
 <p>
     <h5>
         The following example shows the 64 first filter's pattern of 
-        block3_conv1
+        block4_conv1
     </h5>
-    <img src="Images/filters.png" alt="filters" class="inline"/>
+    <img src="filters_pattern/block4_conv1.png" alt="filters" class="inline" width = "500"/>
 </p>
 
 <p>
